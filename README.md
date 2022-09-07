@@ -2,7 +2,7 @@
 
 🙋‍♀️ One of our clients once asked us to what extent employees’ level of engagement in corporate communication and collaboration is determined by their personality and to what extent by their job role and the conditions in which they work. 
 
-🤔 Our first answer was that the second factor very probably plays a more significant role than the first, but it was difficult to answer more specifically because we did not yet have all the data we needed to quantify the tightness of this relationship. This motivated me to look at existing research on this topic to help us better set our apriori expectations on this issue.
+🤔 Our first answer was that the second factor probably plays a more significant role than the first, but it was difficult to answer more specifically because we did not yet have all the data we needed to quantify the tightness of this relationship. This motivated me to look at existing research on this topic to help us better set our apriori expectations on this issue.
 
 👩‍🎓 With the help of **metaBus**, an amazing platform for curating, searching, and quickly summarizing research findings from the social and organizational sciences, I was able to get the results of over 100 studies on the relationship between employees’ [Big 5 personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) on the one side and the amount of interaction and network behavior on the other.
 
