@@ -87,7 +87,7 @@ interactionChart <- interactionPrep %>%
   ) +
   ggplot2::scale_x_continuous(limits = c(-1, 1), breaks = seq(-1,1,0.2)) +
   ggplot2::labs(
-    x = "PERSON CORRELATION COEFFICIENT",
+    x = "PEARSON CORRELATION COEFFICIENT",
     y = ""
   ) +
   ggplot2::theme(
@@ -130,7 +130,7 @@ networkingChart <- networkingPrep %>%
   ) +
   ggplot2::scale_x_continuous(limits = c(-1, 1), breaks = seq(-1,1,0.2)) +
   ggplot2::labs(
-    x = "PERSON CORRELATION COEFFICIENT",
+    x = "PEARSON CORRELATION COEFFICIENT",
     y = ""
   ) +
   ggplot2::theme(
